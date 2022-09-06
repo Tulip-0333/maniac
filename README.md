@@ -12,7 +12,7 @@ Join the [Discord server](https://discord.gg/aARF7KbTuj), if that's your thing.
 
 https://user-images.githubusercontent.com/28566392/163677800-b3087fe0-d7f7-46cd-9645-dc1f0f88ad67.mp4
 
-1. Download the latest build from the [releases tab](https://github.com/fs-c/maniac/releases). (Don't use the `-debug` version unless you are encountering issues and want debug information.)
+1. Download the latest build from the [releases tab](https://github.com/Tulip-0333/maniac/releases), or for the old version [releases tab](https://github.com/fs-c/maniac/releases). (Don't use the `-debug` version unless you are encountering issues and want debug information.)
 2. Start osu. You might get a pop-up with a title like "Windows protected your PC". This is a false positive, just click "More info" and "Run anyway".
 3. Start maniac.
 
@@ -21,7 +21,7 @@ Maniac will now automatically play any beatmap you open in osu. __Make sure your
 ## Contact
 
 The preferred ways for getting in touch with me are 
-- [opening an issue](https://github.com/fs-c/maniac/issues) on GitHub
+- [opening an issue](https://github.com/Tulip-0333/maniac/issues) on GitHub
 - joining the [Discord](https://discord.gg/aARF7KbTuj) server
 
 If you have encountered bugs or have a feature request, GitHub issues are usually best. For general questions or if you just want to get in touch please use Discord.
