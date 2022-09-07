@@ -94,7 +94,7 @@ int main(int, char **) {
         ImGui::Text("Status: %s", message.c_str());
         horizontal_break();
 
-        ImGui::SliderInt("Humanization", &maniac::config.humanization_modifier, 0, 1000);
+        ImGui::SliderInt("Humanization", &maniac::config.humanization_modifier, -500, 1000);
         ImGui::SameLine();
         help_marker("Advanced hit-time randomization based on hit density.");
 
